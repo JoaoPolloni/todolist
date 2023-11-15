@@ -1,0 +1,30 @@
+Gerenciamento de Configuração e sua Relação com CMMI e MPS.BR
+
+O Gerenciamento de Configuração é uma prática essencial no desenvolvimento de software, visando controlar e organizar as mudanças realizadas em um sistema ao longo do tempo.
+A sua aplicação proporciona uma visão clara e controlada do ambiente de desenvolvimento, garantindo a consistência, rastreabilidade e reproducibilidade do software.
+Tanto o Capability Maturity Model Integration (CMMI) quanto o Melhoria de Processo do Software Brasileiro (MPS.BR) 
+são modelos que buscam melhorar a maturidade e a eficiência dos processos de desenvolvimento de software em organizações. 
+A relação entre o Gerenciamento de Configuração e essas certificações é fundamental para atingir os níveis mais altos de maturidade e qualidade nos processos.
+
+CMMI e Gerenciamento de Configuração
+O CMMI é um modelo internacionalmente reconhecido que define as melhores práticas para o desenvolvimento e manutenção de produtos e serviços.
+Uma das áreas-chave do CMMI é o Gerenciamento de Configuração e Mudanças, que visa garantir a integridade dos produtos em desenvolvimento e facilitar 
+o controle efetivo das mudanças.
+
+A implementação do Gerenciamento de Configuração conforme as diretrizes do CMMI ajuda as organizações a estabelecerem processos robustos para a identificação, 
+controle e auditoria de itens de configuração. Utilizando ferramentas como o Docker, as organizações podem garantir ambientes de desenvolvimento consistentes 
+e replicáveis, atendendo aos requisitos do CMMI para manter o controle sobre a configuração do software em todo o ciclo de vida do desenvolvimento.
+
+MPS.BR e Gerenciamento de Configuração
+O MPS.BR, desenvolvido no contexto brasileiro, é um modelo de referência que visa a melhoria dos processos de software. 
+Dentro do MPS.BR, a prática de Gerenciamento de Configuração é abordada nas áreas de processo relacionadas à implementação de práticas de Engenharia de Software.
+A utilização do Gerenciamento de Configuração em conjunto com o MPS.BR proporciona à organização uma base sólida para o controle e
+a gestão das configurações de software.
+O uso de tecnologias como o Docker facilita a criação de ambientes padronizados e reproduzíveis, auxiliando na conformidade com os requisitos do MPS.BR 
+relacionados à gestão de configurações e mudanças.
+
+Conclusão
+Em resumo, a implementação eficaz do Gerenciamento de Configuração desempenha um papel crítico na busca pela maturidade dos processos de desenvolvimento de software, 
+conforme preconizado por certificações como CMMI e MPS.BR.
+ A utilização de ferramentas como o Docker contribui para a criação de ambientes controlados, consistentes e alinhados com as melhores práticas destes modelos, 
+ permitindo que as organizações alcancem níveis mais elevados de qualidade e eficiência em seus processos de desenvolvimento de software.
